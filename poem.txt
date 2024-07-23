@@ -3,3 +3,4 @@ catel
 verde
 floare
 copil
+galben
