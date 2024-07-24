@@ -5,4 +5,7 @@ verde
 floare
 copil
 galben
+ponies
+pn/ie
 indigio
+master
