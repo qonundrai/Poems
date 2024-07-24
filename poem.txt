@@ -5,3 +5,4 @@ verde
 floare
 copil
 galben
+pn/ie
