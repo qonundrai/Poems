@@ -9,3 +9,5 @@ ponies
 pn/ie
 indigio
 master
+
+la magazin nu mai era cu morcoviori
